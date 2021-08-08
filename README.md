@@ -11,4 +11,5 @@ pred=model.predict(pred_datat)
 ```
 
 Note::input_shape=(64,64,3) so pre-process according to the requirement  
+✌✌
 
