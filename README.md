@@ -1,6 +1,6 @@
 # dogs-vs-cat
 A simple classifier using TF2 using the kaggle competition data set(a little late for that)  
-[DATASET](https://www.kaggle.com/c/dogs-vs-cats/data)
+[DATASET HERE](https://www.kaggle.com/c/dogs-vs-cats/data)  
 Got about 73% accuracy on validation data set.  
 model have been saves and uploaded  
 Try and predict some  
